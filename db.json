@@ -1,0 +1,59 @@
+{
+    "posts": [
+        {  
+            "Valor": 120000,
+            "Fecha de vencimiento": "01/04/2021",
+            "Descripcion": "Pago Recaudo",
+            "Nombre": "Alejandra",
+            "Apellido": "Correa",
+            "Tipo de identificacion": "CC",
+            "Cedula":"1020480143",
+            "email": "maria.correa@payco.co",
+            "Ciudad": "Bello",  
+            "Telefono": "2582463",
+            "Celular": "3215468555"          
+        },
+        {  
+            "Valor": 130000,
+            "Fecha de vencimiento": "01/05/2021",
+            "Descripcion": "Pago Recaudo",
+            "Nombre": "Alejandra",
+            "Apellido": "Correa",
+            "Tipo de identificacion": "CC",
+            "Cedula":"1020480143",
+            "email": "maria.correa@payco.co",
+            "Ciudad": "Bello",  
+            "Telefono": "2582463",
+            "Celular": "3215468555"          
+        },
+        {  
+            "Valor": 100000,
+            "Fecha de vencimiento": "01/04/2021",
+            "Descripcion": "Pago Recaudo",
+            "Nombre": "Andres",
+            "Apellido": "Tangarife",
+            "Tipo de identificacion": "CC",
+            "Cedula":"1036640253",
+            "email": "andres.tangarife@payco.co",
+            "Ciudad": "Caldas",  
+            "Telefono": "2584463",
+            "Celular": "3215474555"          
+        },
+        {  
+            "Valor": 90000,
+            "Fecha de vencimiento": "01/06/2021",
+            "Descripcion": "Pago Recaudo",
+            "Nombre": "David",
+            "Apellido": "Herrera",
+            "Tipo de identificacion": "CC",
+            "Cedula":"300792415",
+            "email": "David.herrera@payco.co",
+            "Ciudad": "Bello",  
+            "Telefono": "4424599",
+            "Celular": "3195635862"          
+        }        
+    ],
+        "profile":{
+            "name": "typicode"
+        }
+}
